@@ -1,2 +1,7 @@
 # ficus_kernel
-self-written kernel, just for fun :)
+Whats working:
+- Display text
+
+ToDo:
+- Interrupt handler
+- Input text from keyboard
