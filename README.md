@@ -7,3 +7,5 @@ Whats working:
 Todo:
 - Interrupt handler
 - Input text from keyboard
+
+# Maybe someday I will continue...
